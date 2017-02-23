@@ -37,6 +37,7 @@
 
 CoordinatorTabLayout是一个自定义组合控件,可快速实现TabLayout与CoordinatorLayout相结合的样式 继承至CoordinatorLayout, 在该组件下面使用了CollapsingToolbarLayout包含TabLayout
 ![image](https://github.com/hugeterry/CoordinatorTabLayout/blob/master/showUI/show1.gif)
+
 7.boxing地址：https://github.com/Bilibili/boxing
 
 基于MVP模式的Android多媒体选择器。支持自定义UI
