@@ -32,3 +32,5 @@
 
 ![image](https://github.com/jgilfelt/chuck/blob/master/assets/chuck.gif)
 ![image](https://github.com/jgilfelt/chuck/blob/master/assets/multiwindow.gif)
+
+6.CoordinatorTabLayout
