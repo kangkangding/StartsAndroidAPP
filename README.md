@@ -1,0 +1,2 @@
+# StartsAndroidAPP
+收藏项目中用到的类似的AndroidApp
