@@ -9,3 +9,4 @@
 2.Toasty
 地址：https://github.com/GrenderG/Toasty
 一个创建自定义toast的库。
+https://raw.githubusercontent.com/GrenderG/Toasty/master/art/scr1.png
