@@ -44,4 +44,5 @@ CoordinatorTabLayout是一个自定义组合控件,可快速实现TabLayout与Co
 支持gif
 支持视频选择功能
 提供图片压缩
+
 ![image](https://github.com/Bilibili/boxing/blob/master/screenshot/multi_image.webp)
