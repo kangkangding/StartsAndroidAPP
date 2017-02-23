@@ -54,3 +54,10 @@ CoordinatorTabLayout是一个自定义组合控件,可快速实现TabLayout与Co
 弧形抽屉导航
 ![image](https://raw.githubusercontent.com/rom4ek/ArcNavigationView/master/media/crop_inside.png)
 ![image](https://raw.githubusercontent.com/rom4ek/ArcNavigationView/master/media/crop_outside.png)
+
+9.excelPanel
+地址：https://github.com/zhouchaoyuan/excelPanel
+用RecycleView实现的二维表格，可以加载新数据和历史数据
+
+![image](https://raw.githubusercontent.com/zhouchaoyuan/excelPanel/master/app/src/main/assets/roomFormDemo.gif)
+![image](https://raw.githubusercontent.com/zhouchaoyuan/excelPanel/master/app/src/main/assets/roomFormDemoAdjustHeight.gif)
