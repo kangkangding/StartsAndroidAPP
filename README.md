@@ -19,3 +19,9 @@
 这是一个创建自定义toast的库。
 ![image](https://github.com/Muddz/StyleableToast/blob/master/showcase.png)
 ![image](https://camo.githubusercontent.com/a7edeb11d67c6192d90506df396258597ca84951/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f686f7136366e614a516b4543492f67697068792e676966)
+
+4.PreviewSeekBar
+地址：https://github.com/rubensousa/PreviewSeekBar
+可以预览视频，可以在Google Play Movies上看到效果。
+![image](https://github.com/rubensousa/PreviewSeekBar/blob/master/screenshots/playmovies.gif)
+![image](https://github.com/rubensousa/PreviewSeekBar/blob/master/screenshots/sample.gif)
