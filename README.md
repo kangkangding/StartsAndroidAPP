@@ -47,3 +47,10 @@ CoordinatorTabLayout是一个自定义组合控件,可快速实现TabLayout与Co
 提供图片压缩
 
 ![image](https://github.com/Bilibili/boxing/blob/master/screenshot/multi_image.webp)
+
+8.ArcNAvigationView
+地址：https://github.com/rom4ek/ArcNavigationView
+
+弧形抽屉导航
+![image](https://raw.githubusercontent.com/rom4ek/ArcNavigationView/master/media/crop_inside.png)
+![image](https://raw.githubusercontent.com/rom4ek/ArcNavigationView/master/media/crop_outside.png)
