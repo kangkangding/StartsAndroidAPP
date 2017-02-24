@@ -75,4 +75,4 @@ CoordinatorTabLayout是一个自定义组合控件,可快速实现TabLayout与Co
 12.FlowLayout地址：https://github.com/hongyangAndroid/FlowLayout
 Android流式布局，支持单选、多选等，适合用于产品标签等。
 
-![image](https://github.com/sharish/ShimmerRecyclerView/blob/master/screenshots/list_demo.gif)![image](https://github.com/sharish/ShimmerRecyclerView/blob/master/screenshots/grid_demo.gif)
+![image](https://github.com/hongyangAndroid/FlowLayout/blob/master/flowlayout_03.gif)
