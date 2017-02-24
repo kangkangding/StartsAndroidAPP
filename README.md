@@ -61,3 +61,9 @@ CoordinatorTabLayout是一个自定义组合控件,可快速实现TabLayout与Co
 
 ![image](https://raw.githubusercontent.com/zhouchaoyuan/excelPanel/master/app/src/main/assets/roomFormDemo.gif)
 ![image](https://raw.githubusercontent.com/zhouchaoyuan/excelPanel/master/app/src/main/assets/roomFormDemoAdjustHeight.gif)
+
+10.ShimmerRecyclerView
+地址：https://github.com/sharish/ShimmerRecyclerView
+一个在加载数据时显示闪烁的RecyclerView。
+
+![image](https://github.com/sharish/ShimmerRecyclerView/blob/master/screenshots/list_demo.gif)![image](https://github.com/sharish/ShimmerRecyclerView/blob/master/screenshots/grid_demo.gif)
