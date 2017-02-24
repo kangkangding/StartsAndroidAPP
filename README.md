@@ -76,3 +76,7 @@ CoordinatorTabLayout是一个自定义组合控件,可快速实现TabLayout与Co
 Android流式布局，支持单选、多选等，适合用于产品标签等。
 
 ![image](https://github.com/hongyangAndroid/FlowLayout/blob/master/flowlayout_03.gif)
+
+13.MaterialAbout地址：https://github.com/jrvansuita/MaterialAbout
+这是一个帮助你实现我界面的库。
+![image](https://github.com/jrvansuita/MaterialAbout/blob/master/images/screenshots/dark.jpg)![image](https://github.com/jrvansuita/MaterialAbout/blob/master/images/screenshots/light.jpg)![image](https://github.com/jrvansuita/MaterialAbout/blob/master/images/screenshots/custom.jpg)
